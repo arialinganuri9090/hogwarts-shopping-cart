@@ -36,7 +36,7 @@
                     class="quantity-change-button"
                     @click="decreaseOne(item.id)"
                   >
-                    −
+                    - 
                   </button>
                   <!-- input field to show/edit quantity -->
                   <input
@@ -403,4 +403,4 @@
     background-color: #4138d9;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
   }
-  </style>
+  </style> 
